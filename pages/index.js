@@ -1,1 +1,1 @@
-
+<-- React entry point calling all sections -->
